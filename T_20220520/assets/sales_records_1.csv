@@ -1,0 +1,251 @@
+Order ID,Region,Country,Item Type,Order Date,Ship Date,Units Sold,Unit Price
+686800706,Middle East and North Africa,Libya,Cosmetics,10/18/2014,10/31/2014,8446,437.2
+185941302,North America,Canada,Vegetables,11/7/2011,12/8/2011,3018,154.06
+246222341,Middle East and North Africa,Libya,Baby Food,10/31/2016,12/9/2016,1517,255.28
+161442649,Asia,Japan,Cereal,4/10/2010,5/12/2010,3322,205.7
+645713555,Sub-Saharan Africa,Chad,Fruits,8/16/2011,8/31/2011,9845,9.33
+683458888,Europe,Armenia,Cereal,11/24/2014,12/28/2014,9528,205.7
+679414975,Sub-Saharan Africa,Eritrea,Cereal,3/4/2015,4/17/2015,2844,205.7
+208630645,Europe,Montenegro,Clothes,5/17/2012,6/28/2012,7299,109.28
+266467225,Central America and the Caribbean,Jamaica,Vegetables,1/29/2015,3/7/2015,2428,154.06
+118598544,Australia and Oceania,Fiji,Vegetables,12/24/2013,1/19/2014,4800,154.06
+451010930,Sub-Saharan Africa,Togo,Clothes,12/29/2015,1/19/2016,3012,109.28
+220003211,Europe,Montenegro,Snacks,2/27/2010,3/18/2010,2694,152.58
+702186715,Europe,Greece,Household,11/17/2016,12/22/2016,1508,668.27
+544485270,Sub-Saharan Africa,Sudan,Cosmetics,12/20/2015,1/5/2016,4146,437.2
+714135205,Asia,Maldives,Fruits,1/8/2011,2/6/2011,7332,9.33
+448685348,Europe,Montenegro,Clothes,6/28/2010,7/22/2010,4820,109.28
+405997025,Europe,Estonia,Office Supplies,4/25/2016,5/12/2016,2397,651.21
+414244067,North America,Greenland,Beverages,7/27/2012,8/7/2012,2880,47.45
+821912801,Sub-Saharan Africa,Cape Verde,Clothes,9/8/2014,10/3/2014,1117,109.28
+247802054,Sub-Saharan Africa,Senegal,Household,8/27/2012,9/8/2012,8989,668.27
+531023156,Australia and Oceania,Federated States of Micronesia,Snacks,9/3/2012,10/15/2012,407,152.58
+880999934,Europe,Bulgaria,Clothes,8/27/2010,9/16/2010,6313,109.28
+127468717,Middle East and North Africa,Algeria,Personal Care,2/20/2011,3/9/2011,9681,81.73
+770478332,Asia,Mongolia,Clothes,12/12/2015,1/24/2016,515,109.28
+430390107,Central America and the Caribbean,Grenada,Cereal,10/28/2012,11/13/2012,852,205.7
+397877871,Central America and the Caribbean,Grenada,Beverages,1/30/2017,3/20/2017,9759,47.45
+683927953,Sub-Saharan Africa,Senegal,Beverages,10/22/2014,11/4/2014,8334,47.45
+469839179,North America,Greenland,Fruits,1/31/2012,2/22/2012,4709,9.33
+357222878,Sub-Saharan Africa,Chad,Meat,1/20/2016,3/9/2016,9043,421.89
+118002879,Sub-Saharan Africa,Mauritius ,Personal Care,1/1/2016,1/7/2016,8529,81.73
+944415509,Middle East and North Africa,Morocco,Beverages,6/1/2017,6/23/2017,2391,47.45
+499009597,Central America and the Caribbean,Honduras,Office Supplies,6/30/2015,7/9/2015,6884,651.21
+564646470,Sub-Saharan Africa,Benin,Fruits,1/28/2014,3/16/2014,293,9.33
+294499957,Europe,Greece,Baby Food,4/8/2014,4/8/2014,7937,255.28
+262056386,Central America and the Caribbean,Jamaica,Beverages,9/4/2010,10/24/2010,7163,47.45
+211114585,Sub-Saharan Africa,Equatorial Guinea,Office Supplies,5/2/2010,5/14/2010,2352,651.21
+405785882,Sub-Saharan Africa,Swaziland,Office Supplies,10/3/2013,10/22/2013,9915,651.21
+280494105,Central America and the Caribbean,Trinidad and Tobago,Vegetables,3/6/2011,4/14/2011,3294,154.06
+689975583,Europe,Sweden,Baby Food,8/7/2016,8/12/2016,7963,255.28
+759279143,Europe,Belarus,Office Supplies,1/11/2011,2/18/2011,6426,651.21
+133766114,Sub-Saharan Africa,Guinea-Bissau,Office Supplies,5/21/2014,6/12/2014,3221,651.21
+329110324,Asia,Mongolia,Beverages,8/3/2013,9/2/2013,9913,47.45
+681298100,Middle East and North Africa,Turkey,Meat,10/5/2011,11/20/2011,103,421.89
+596628272,Sub-Saharan Africa,Central African Republic,Snacks,11/15/2016,12/30/2016,4419,152.58
+901712167,Sub-Saharan Africa,Equatorial Guinea,Office Supplies,4/3/2015,4/17/2015,5523,651.21
+693473613,Asia,Laos,Beverages,3/22/2013,4/21/2013,3107,47.45
+489148938,Europe,Armenia,Meat,8/2/2010,9/1/2010,8896,421.89
+876286971,Europe,Greece,Household,1/5/2012,2/15/2012,1643,668.27
+262749040,Middle East and North Africa,Israel,Personal Care,8/26/2015,8/30/2015,2135,81.73
+726708972,Asia,Bhutan,Meat,12/9/2016,1/26/2017,8189,421.89
+366653096,Australia and Oceania,Vanuatu,Vegetables,5/17/2012,5/31/2012,9654,154.06
+951380240,Sub-Saharan Africa,Burundi,Vegetables,11/17/2010,12/20/2010,3410,154.06
+270001733,Europe,Ukraine,Cosmetics,11/13/2014,1/1/2015,8368,437.2
+681941401,Europe,Croatia,Beverages,6/16/2016,7/28/2016,470,47.45
+566935575,Sub-Saharan Africa,Madagascar,Fruits,5/31/2016,6/7/2016,7690,9.33
+175033080,Asia,Malaysia,Snacks,10/6/2012,11/5/2012,5033,152.58
+276595246,Asia,Uzbekistan,Office Supplies,3/10/2012,3/15/2012,9535,651.21
+812295901,Europe,Italy,Office Supplies,1/26/2011,2/13/2011,5263,651.21
+443121373,Asia,Nepal,Vegetables,6/2/2014,6/19/2014,8316,154.06
+600370490,Australia and Oceania,Fiji,Personal Care,12/17/2016,1/25/2017,1824,81.73
+535654580,Europe,Portugal,Office Supplies,6/27/2014,7/29/2014,949,651.21
+470897471,Central America and the Caribbean,Panama,Cosmetics,3/17/2015,4/22/2015,7881,437.2
+248335492,Europe,Belarus,Beverages,4/3/2013,4/4/2013,6846,47.45
+680517470,Sub-Saharan Africa,Botswana,Clothes,3/8/2015,3/25/2015,9097,109.28
+400304734,Sub-Saharan Africa,Tanzania,Personal Care,6/21/2013,7/29/2013,7921,81.73
+810871112,Europe,Romania,Office Supplies,1/6/2013,1/8/2013,3636,651.21
+235702931,Sub-Saharan Africa,Mali,Cereal,3/17/2012,4/3/2012,8590,205.7
+668599021,Sub-Saharan Africa,Central African Republic,Office Supplies,4/18/2014,5/12/2014,2163,651.21
+123670709,Sub-Saharan Africa,Niger,Baby Food,1/3/2016,2/1/2016,5766,255.28
+285341823,Europe,Austria,Office Supplies,5/12/2011,6/8/2011,7841,651.21
+658348691,Asia,India,Fruits,7/29/2010,8/22/2010,8862,9.33
+817740142,Europe,Luxembourg,Baby Food,8/2/2013,8/19/2013,6335,255.28
+858877503,Sub-Saharan Africa,Cape Verde,Beverages,10/23/2013,11/6/2013,9794,47.45
+947434604,Europe,Sweden,Vegetables,2/5/2017,2/19/2017,5808,154.06
+869397771,Europe,Iceland,Meat,3/20/2015,4/17/2015,2975,421.89
+481065833,Middle East and North Africa,Qatar,Personal Care,5/6/2012,5/8/2012,6925,81.73
+159050118,Sub-Saharan Africa,South Sudan,Meat,9/30/2013,10/1/2013,5319,421.89
+350274455,Europe,United Kingdom,Office Supplies,5/20/2014,6/14/2014,2850,651.21
+221975171,Middle East and North Africa,Tunisia ,Cereal,4/9/2010,5/17/2010,6241,205.7
+811701095,North America,United States of America,Office Supplies,6/9/2017,7/19/2017,9247,651.21
+977313554,Sub-Saharan Africa,Liberia,Cereal,2/8/2015,3/29/2015,7653,205.7
+546986377,Sub-Saharan Africa,Eritrea,Snacks,1/25/2010,2/10/2010,4279,152.58
+769205892,Asia,South Korea,Fruits,3/7/2010,3/17/2010,3972,9.33
+262770926,Sub-Saharan Africa,Kenya,Clothes,1/3/2013,2/8/2013,8611,109.28
+866792809,Sub-Saharan Africa,Rwanda,Snacks,3/6/2017,3/18/2017,2109,152.58
+890695369,Central America and the Caribbean,Cuba,Beverages,1/9/2011,2/23/2011,5408,47.45
+964214932,Middle East and North Africa,Libya,Cereal,3/27/2014,3/31/2014,1480,205.7
+887400329,Europe,Czech Republic,Snacks,6/28/2013,8/17/2013,332,152.58
+980612885,Europe,Montenegro,Beverages,9/4/2011,9/4/2011,3999,47.45
+734526431,Europe,Montenegro,Clothes,7/14/2016,8/2/2016,1549,109.28
+160127294,Asia,Philippines,Baby Food,2/23/2014,3/23/2014,4079,255.28
+238714301,Central America and the Caribbean,El Salvador,Clothes,8/7/2010,9/13/2010,9721,109.28
+671898782,Australia and Oceania,Tonga,Household,1/14/2013,2/6/2013,8635,668.27
+331604564,Sub-Saharan Africa,Democratic Republic of the Congo,Personal Care,9/30/2010,11/17/2010,8014,81.73
+410067975,Middle East and North Africa,Afghanistan,Cereal,10/13/2016,11/20/2016,7081,205.7
+369837844,Australia and Oceania,Tuvalu,Snacks,3/16/2011,3/23/2011,2091,152.58
+193775498,Sub-Saharan Africa,Sudan,Fruits,12/26/2012,1/31/2013,1331,9.33
+835054767,Sub-Saharan Africa,Niger,Clothes,9/2/2015,10/9/2015,117,109.28
+167161977,Sub-Saharan Africa,Gabon,Household,11/11/2013,12/24/2013,5798,668.27
+633895957,Australia and Oceania,East Timor,Vegetables,8/4/2014,8/22/2014,2755,154.06
+699368035,North America,United States of America,Clothes,10/21/2010,12/7/2010,7398,109.28
+698002040,Middle East and North Africa,Jordan,Vegetables,6/13/2015,7/29/2015,3170,154.06
+584534299,Europe,Cyprus,Snacks,3/29/2012,5/18/2012,5544,152.58
+384013640,Sub-Saharan Africa,Malawi,Vegetables,6/22/2012,7/19/2012,7025,154.06
+641801393,Europe,Iceland,Personal Care,5/10/2013,5/24/2013,2149,81.73
+173571383,Middle East and North Africa,Israel,Personal Care,12/10/2016,1/11/2017,2484,81.73
+115309941,Middle East and North Africa,United Arab Emirates,Snacks,3/20/2011,4/6/2011,1629,152.58
+773315894,Asia,China,Cosmetics,9/22/2011,11/4/2011,213,437.2
+274200570,Sub-Saharan Africa,Kenya,Beverages,5/11/2012,6/26/2012,897,47.45
+414887797,Middle East and North Africa,Somalia,Clothes,11/15/2011,11/17/2011,3374,109.28
+812613904,Australia and Oceania,Tonga,Beverages,1/27/2010,1/29/2010,9367,47.45
+254927718,Asia,Bangladesh,Baby Food,8/17/2011,9/7/2011,7632,255.28
+749690568,Middle East and North Africa,Egypt,Beverages,9/6/2014,10/26/2014,8954,47.45
+775076282,Sub-Saharan Africa,Eritrea,Cereal,9/3/2014,9/19/2014,1150,205.7
+229571187,Sub-Saharan Africa,Swaziland,Office Supplies,9/5/2015,9/18/2015,4071,651.21
+881974112,Asia,Vietnam,Baby Food,6/20/2011,7/11/2011,4594,255.28
+521396386,Australia and Oceania,Marshall Islands,Snacks,1/12/2012,2/14/2012,1632,152.58
+607261836,Asia,Taiwan,Household,1/23/2017,2/22/2017,1127,668.27
+419306790,Europe,Ireland,Vegetables,3/4/2012,3/12/2012,1052,154.06
+207580077,Sub-Saharan Africa,Rwanda,Meat,7/18/2010,7/18/2010,6413,421.89
+742443025,Europe,Sweden,Snacks,4/12/2011,4/15/2011,4245,152.58
+164569461,Sub-Saharan Africa,Gabon,Snacks,10/3/2010,10/5/2010,8615,152.58
+734945714,Sub-Saharan Africa,South Africa,Baby Food,12/29/2013,2/12/2014,5624,255.28
+284870612,Europe,United Kingdom,Clothes,9/19/2015,10/7/2015,8399,109.28
+765955483,Europe,Albania,Fruits,9/17/2011,10/7/2011,2104,9.33
+600124156,Asia,Malaysia,Snacks,3/11/2010,4/21/2010,8929,152.58
+529612958,Sub-Saharan Africa,Ghana,Household,11/10/2012,12/11/2012,3098,668.27
+466970717,Central America and the Caribbean,Cuba,Clothes,2/16/2011,3/18/2011,5867,109.28
+845058763,Central America and the Caribbean,Saint Lucia,Cosmetics,8/13/2012,9/22/2012,522,437.2
+367050921,Europe,Romania,Snacks,8/28/2014,8/31/2014,7379,152.58
+956433522,Europe,Portugal,Office Supplies,8/19/2015,9/12/2015,8788,651.21
+107005393,Europe,Macedonia,Beverages,3/20/2011,5/4/2011,4129,47.45
+332877862,Asia,China,Beverages,4/16/2013,5/7/2013,4811,47.45
+618474757,Europe,Germany,Baby Food,11/13/2015,12/31/2015,9279,255.28
+468532407,Europe,Ireland,Household,1/10/2014,2/11/2014,8006,668.27
+358099639,Europe,Poland,Office Supplies,4/9/2015,4/29/2015,8496,651.21
+382537782,Sub-Saharan Africa,Namibia,Household,1/7/2013,1/27/2013,285,668.27
+707520663,Asia,Uzbekistan,Personal Care,2/12/2013,3/15/2013,9942,81.73
+219034612,Sub-Saharan Africa,Zimbabwe,Meat,11/28/2014,12/10/2014,6064,421.89
+573378455,Asia,Mongolia,Meat,1/3/2015,1/17/2015,4281,421.89
+347163522,Europe,Norway,Personal Care,2/3/2011,3/22/2011,2256,81.73
+887313640,Middle East and North Africa,Oman,Snacks,4/9/2013,4/21/2013,4679,152.58
+461065137,Europe,Serbia,Cosmetics,7/26/2017,8/19/2017,8275,437.2
+105966842,Sub-Saharan Africa,Democratic Republic of the Congo,Fruits,4/15/2017,5/19/2017,6798,9.33
+479880082,Europe,Bulgaria,Baby Food,5/16/2014,5/23/2014,6035,255.28
+510978686,Asia,Brunei,Baby Food,8/12/2015,9/30/2015,8803,255.28
+547748982,Europe,Serbia,Snacks,9/20/2013,10/14/2013,9951,152.58
+108989799,Sub-Saharan Africa,Ghana,Cereal,10/31/2013,12/9/2013,1358,205.7
+133812463,Sub-Saharan Africa,Malawi,Cereal,7/30/2014,8/9/2014,6936,205.7
+731640803,Sub-Saharan Africa,Zimbabwe,Fruits,11/12/2011,12/30/2011,7627,9.33
+732211148,Europe,Cyprus,Snacks,3/25/2010,4/14/2010,6405,152.58
+835572326,Central America and the Caribbean,Nicaragua,Cereal,7/4/2011,8/8/2011,3274,205.7
+462085664,Europe,Estonia,Baby Food,1/1/2011,1/15/2011,271,255.28
+902424991,Europe,Estonia,Clothes,6/16/2016,7/4/2016,6463,109.28
+367576634,Europe,Lithuania,Fruits,12/17/2013,1/5/2014,2949,9.33
+738839423,Sub-Saharan Africa,Republic of the Congo,Meat,3/1/2017,3/31/2017,7859,421.89
+817824685,Europe,Czech Republic,Baby Food,7/2/2010,7/27/2010,1353,255.28
+376456248,Sub-Saharan Africa,Cameroon,Snacks,7/16/2013,8/1/2013,624,152.58
+606970441,Asia,Vietnam,Office Supplies,8/16/2016,9/16/2016,4897,651.21
+971916091,Europe,Moldova ,Meat,12/16/2014,1/19/2015,424,421.89
+554154527,Middle East and North Africa,Bahrain,Office Supplies,5/14/2012,5/15/2012,5494,651.21
+306859576,Europe,Hungary,Household,7/18/2017,7/19/2017,5423,668.27
+803517568,Australia and Oceania,Marshall Islands,Personal Care,7/9/2017,7/21/2017,7559,81.73
+887927329,Middle East and North Africa,Iraq,Office Supplies,9/30/2011,10/2/2011,6283,651.21
+824200189,Europe,Albania,Vegetables,11/24/2015,11/26/2015,8006,154.06
+946759974,Sub-Saharan Africa,Lesotho,Office Supplies,8/14/2012,9/14/2012,6170,651.21
+310343015,Middle East and North Africa,Lebanon,Clothes,12/6/2015,12/28/2015,6249,109.28
+739998137,Europe,Hungary,Vegetables,5/25/2014,7/9/2014,748,154.06
+981086671,Asia,Japan,Beverages,10/18/2012,11/21/2012,4203,47.45
+749282443,Europe,Georgia,Office Supplies,3/13/2013,3/25/2013,8180,651.21
+280571782,Europe,Estonia,Office Supplies,2/23/2011,3/11/2011,6280,651.21
+781253516,Europe,Luxembourg,Household,8/15/2014,9/1/2014,9131,668.27
+377938973,Sub-Saharan Africa,Swaziland,Personal Care,7/6/2017,7/11/2017,9396,81.73
+867551982,Europe,Romania,Clothes,12/31/2010,1/3/2011,6765,109.28
+967328870,Sub-Saharan Africa,Ethiopia,Personal Care,1/13/2010,1/15/2010,2964,81.73
+364818465,Sub-Saharan Africa,Chad,Office Supplies,9/17/2011,10/16/2011,6746,651.21
+167882096,Middle East and North Africa,Morocco,Office Supplies,3/8/2014,3/31/2014,8898,651.21
+654693591,North America,Mexico,Clothes,11/18/2012,12/1/2012,7237,109.28
+823739278,Sub-Saharan Africa,Nigeria,Personal Care,11/18/2011,12/29/2011,1612,81.73
+643817985,Central America and the Caribbean,Trinidad and Tobago,Beverages,7/12/2012,8/19/2012,8904,47.45
+604041039,Europe,Moldova ,Personal Care,3/30/2017,5/15/2017,8022,81.73
+363832271,Australia and Oceania,Solomon Islands,Personal Care,7/26/2010,9/12/2010,4909,81.73
+102928006,Asia,India,Personal Care,12/24/2015,1/31/2016,7539,81.73
+971377074,Sub-Saharan Africa,Burkina Faso,Office Supplies,5/15/2016,5/15/2016,917,651.21
+139540803,Australia and Oceania,Kiribati,Meat,11/3/2010,12/4/2010,2079,421.89
+248093020,Middle East and North Africa,Israel,Meat,12/1/2010,12/16/2010,5093,421.89
+858020055,Sub-Saharan Africa,Comoros,Snacks,1/16/2014,1/17/2014,6056,152.58
+700620734,Middle East and North Africa,Iran,Baby Food,12/11/2014,1/5/2015,8099,255.28
+827506387,Asia,Vietnam,Cosmetics,12/24/2016,1/30/2017,6384,437.2
+560600841,Central America and the Caribbean,Belize,Household,3/21/2013,4/14/2013,3101,668.27
+642140424,Europe,Belarus,Personal Care,12/8/2012,1/16/2013,2476,81.73
+984673964,North America,United States of America,Baby Food,2/13/2015,3/5/2015,5763,255.28
+221062791,Europe,Poland,Beverages,3/28/2012,4/18/2012,6247,47.45
+654480731,North America,Canada,Vegetables,10/7/2016,11/8/2016,4247,154.06
+608414113,Middle East and North Africa,Israel,Beverages,12/15/2011,12/23/2011,2111,47.45
+276661765,Middle East and North Africa,Lebanon,Household,3/8/2016,4/20/2016,9219,668.27
+373335015,Europe,Andorra,Baby Food,1/18/2011,2/28/2011,6982,255.28
+782857692,Europe,Slovakia,Clothes,4/11/2013,5/28/2013,3843,109.28
+109966123,Sub-Saharan Africa,Liberia,Fruits,5/18/2010,6/5/2010,274,9.33
+629709136,Central America and the Caribbean,Antigua and Barbuda ,Cereal,6/5/2017,6/6/2017,3782,205.7
+637448060,Asia,China,Personal Care,9/11/2012,9/15/2012,3901,81.73
+298856723,Sub-Saharan Africa,Niger,Baby Food,3/8/2017,4/3/2017,7200,255.28
+299921452,Europe,United Kingdom,Household,1/28/2015,2/23/2015,2278,668.27
+496941077,Asia,Bangladesh,Personal Care,7/26/2010,7/29/2010,4763,81.73
+366526925,Asia,Myanmar,Snacks,6/24/2016,7/14/2016,2317,152.58
+355602824,Australia and Oceania,Tonga,Meat,8/18/2012,9/15/2012,9633,421.89
+531405103,Sub-Saharan Africa,Guinea-Bissau,Vegetables,3/11/2010,4/19/2010,3434,154.06
+131482589,Australia and Oceania,Nauru,Vegetables,1/14/2010,1/20/2010,7475,154.06
+713696610,Sub-Saharan Africa,Swaziland,Cereal,2/10/2014,3/28/2014,7542,205.7
+306220996,Europe,Finland,Vegetables,1/21/2014,1/30/2014,6452,154.06
+157542073,Australia and Oceania,Papua New Guinea,Household,2/28/2010,3/15/2010,9055,668.27
+686458671,Sub-Saharan Africa,Mauritius ,Personal Care,2/18/2015,3/8/2015,7230,81.73
+132082116,Sub-Saharan Africa,Mozambique,Office Supplies,6/14/2012,7/22/2012,4888,651.21
+403836238,Europe,Bulgaria,Clothes,3/5/2013,4/3/2013,2972,109.28
+331457364,Europe,Spain,Household,4/10/2014,4/23/2014,4455,668.27
+614994323,Australia and Oceania,Vanuatu,Meat,7/26/2017,9/12/2017,9341,421.89
+674808442,Europe,Belgium,Fruits,10/19/2010,10/24/2010,9669,9.33
+901573550,Europe,Belgium,Baby Food,11/8/2016,12/23/2016,4503,255.28
+406275975,Sub-Saharan Africa,Guinea-Bissau,Clothes,3/31/2014,5/10/2014,4944,109.28
+170214545,Sub-Saharan Africa,Togo,Vegetables,8/18/2016,8/19/2016,9121,154.06
+795000588,Sub-Saharan Africa,Cote d'Ivoire,Personal Care,1/3/2016,1/8/2016,7196,81.73
+252557933,Sub-Saharan Africa,Republic of the Congo,Fruits,10/21/2016,11/4/2016,6360,9.33
+635122907,Middle East and North Africa,Libya,Baby Food,12/10/2016,12/13/2016,5837,255.28
+505244338,Australia and Oceania,East Timor,Vegetables,8/12/2011,9/19/2011,1882,154.06
+745783555,Europe,Switzerland,Clothes,3/23/2012,5/9/2012,2782,109.28
+509914386,Australia and Oceania,Palau,Snacks,4/27/2012,6/11/2012,3853,152.58
+371123158,Middle East and North Africa,Jordan,Household,1/29/2014,2/9/2014,2445,668.27
+973208701,Europe,Slovenia,Household,12/13/2016,12/28/2016,2936,668.27
+780282342,Asia,South Korea,Baby Food,11/21/2013,12/27/2013,1739,255.28
+126767909,Europe,Norway,Clothes,4/7/2010,5/22/2010,2296,109.28
+767401731,Middle East and North Africa,Afghanistan,Baby Food,7/8/2012,7/30/2012,80,255.28
+927232635,Asia,Bangladesh,Personal Care,10/15/2016,11/24/2016,7597,81.73
+251621949,Sub-Saharan Africa,Guinea,Meat,9/18/2012,10/20/2012,9381,421.89
+256243503,Central America and the Caribbean,Cuba,Office Supplies,7/2/2017,7/23/2017,7002,651.21
+277083623,Europe,Russia,Cosmetics,7/21/2011,9/2/2011,4056,437.2
+620441138,Sub-Saharan Africa,Seychelles ,Vegetables,6/1/2010,6/22/2010,1175,154.06
+312927377,Asia,South Korea,Office Supplies,7/26/2015,9/7/2015,1020,651.21
+251466166,Sub-Saharan Africa,Ghana,Baby Food,8/6/2010,9/8/2010,3282,255.28
+953293836,Central America and the Caribbean,Costa Rica,Office Supplies,6/20/2010,7/22/2010,9685,651.21
+305959212,Europe,Romania,Cereal,4/8/2012,4/23/2012,8985,205.7
+317323625,Europe,Czech Republic,Cereal,2/27/2014,3/24/2014,1967,205.7
+365560901,Europe,Liechtenstein,Household,7/25/2011,9/1/2011,6449,668.27
+349157369,Sub-Saharan Africa,Seychelles ,Baby Food,2/18/2016,4/5/2016,2279,255.28
+236911857,Middle East and North Africa,Somalia,Baby Food,1/24/2014,2/25/2014,6338,255.28
+517935693,Australia and Oceania,Solomon Islands,Personal Care,5/10/2015,6/16/2015,7536,81.73
+851652705,Sub-Saharan Africa,Uganda,Clothes,2/13/2012,3/27/2012,1816,109.28
+517799222,Sub-Saharan Africa,Equatorial Guinea,Cereal,9/7/2012,10/23/2012,7151,205.7
+666424071,Central America and the Caribbean,Costa Rica,Office Supplies,2/4/2015,3/4/2015,8547,651.21
+267888581,Europe,Moldova ,Fruits,11/16/2010,12/22/2010,3039,9.33
+162866580,Sub-Saharan Africa,Burkina Faso,Vegetables,7/20/2011,7/26/2011,4695,154.06
