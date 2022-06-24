@@ -30,6 +30,7 @@ Vorteile:
 
 """ Auführbarbeit dieser Datei ohne folgeden Code im Terminal:
 python -m unittest test_sum_unittest
+Eine kleine Veränderung zum Nachvollziehen von Git status
 """
 
 # if __name__ == '__main__':
